@@ -1,0 +1,15 @@
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\MRBS.Core.csproj.AssemblyReference.cache
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\MRBS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\MRBS.Core.AssemblyInfoInputs.cache
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\MRBS.Core.AssemblyInfo.cs
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\MRBS.Core.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\MRBS.Core.deps.json
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\MRBS.Core.runtimeconfig.json
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\MRBS.Core.runtimeconfig.dev.json
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\MRBS.Core.dll
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\ref\MRBS.Core.dll
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\MRBS.Core.pdb
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\MRBS.Core.dll
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ref\MRBS.Core.dll
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\MRBS.Core.pdb
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\MRBS.Core.genruntimeconfig.cache

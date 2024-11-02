@@ -1,0 +1,15 @@
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.core.csproj.AssemblyReference.cache
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.core.AssemblyInfoInputs.cache
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.core.AssemblyInfo.cs
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.core.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.core.deps.json
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.core.runtimeconfig.json
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.core.runtimeconfig.dev.json
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.core.dll
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.core.dll
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.core.pdb
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.core.dll
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.core.dll
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.core.pdb
+D:\Program Files\Visual Studio projects\Meeting Room Booking System\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.core.genruntimeconfig.cache
